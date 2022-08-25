@@ -15,3 +15,12 @@ This code is ugly but at least it does not abuse delay().
 
 first arduino project.
 
+# Notes
+
+WIP
+
+not ready.
+
+need to make it work better.
+
+especially, currently it's staying in any given state for just the time it says in the steps. I need to slice time better.
